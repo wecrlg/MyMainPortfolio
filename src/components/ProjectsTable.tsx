@@ -18,23 +18,28 @@ const projects = [
     desc: "A quiz application. Built with TypeScript, React, Node Js, MongoDb, CSS, Bootstrap, etc. Login Authentication, Admin Dashboard for performing CRUD operations",
   },
   {
+    name: "Willify",
+    link: "https://willify.vercel.app/",
+    desc: "A cart system. Built with NextJS, TypeScript, CSS, etc.",
+  },
+  {
     name: "Shopixia",
     link: "https://shopixia.netlify.app",
     desc: "An e-commerce cart system. Built with TypeScript, React, Bootstrap, Material UI, etc. Consumed https://fakestoreapi.com",
   },
   {
     name: "FriendyMe",
-    link: "https://friendyme.netlify.app",
-    desc: "A front end social media system. Built with TypeScript, React, Bootstrap, Material UI, etc.",
+    link: "https://friendyme.vercel.app",
+    desc: "A front end social media system. Consumed https://randomuser.me/ api. Built with TypeScript, Next JS, Bootstrap, Material UI, Tailwind, etc.",
   },
   {
     name: "Williams IDE",
     link: "https://williams-ide.netlify.app",
-    desc: "VsCode Clone File/Folder Structure. Built with TypeScript, React, Bootstrap, Material UI, etc.",
+    desc: "VsCode Clone File/Folder Structure. Built with TypeScript, Next JS, Bootstrap, Material UI, etc.",
   },
   {
     name: "96 Champions FC",
-    link: "https://96championsfc.netlify.app",
+    link: "https://96championsfc.vercel.app",
     desc: "Fotball club front end design with scores, results, fixtures, etc.  Built with Angular, Bootstrap, Material UI, etc.",
   },
 ];

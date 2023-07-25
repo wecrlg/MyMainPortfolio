@@ -1,4 +1,4 @@
-import CV from "../assets/WilliamsCV.pdf";
+import CV from "../assets/Ezetendu_Williams.pdf";
 import { useAppContext } from "../contexts/AppContext";
 
 export default function Main() {
